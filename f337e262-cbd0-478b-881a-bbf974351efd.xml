@@ -3,9 +3,9 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
-    <id>7f3ee0c5-e002-40f0-aa36-5d13b400c0d5</id>
+    <id>f337e262-cbd0-478b-881a-bbf974351efd</id>
     <loglevel>INFO</loglevel>
-    <name>test1</name>
+    <name>test2</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>
@@ -14,6 +14,6 @@
         <exec>echo Hi</exec>
       </command>
     </sequence>
-    <uuid>7f3ee0c5-e002-40f0-aa36-5d13b400c0d5</uuid>
+    <uuid>f337e262-cbd0-478b-881a-bbf974351efd</uuid>
   </job>
 </joblist>
